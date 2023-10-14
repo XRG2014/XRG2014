@@ -8,8 +8,6 @@
 
 _(sorry if I spelled your names wrong)_
 
-_PS: By the way, i'm new to github and I can't figure out how to delete a repository_
-
 <!---
 XRG2014/XRG2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -6,9 +6,10 @@
 @NebulaticOfficial
 @gitventurer
 
-> _(sorry if I spelled your names wrong)_
+> _(Sorry if I spelled your names wrong)_
 
-find me [here](https://xrg2014.github.io) _(My link may not work)_
+Find me [here](https://xrg2014.github.io) 
+>_(My link may not work)_
 <!---
 XRG2014/XRG2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

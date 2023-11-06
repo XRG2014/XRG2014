@@ -1,5 +1,7 @@
 **Hola, I’m @XRG2014**
 - **I _LOOOOOOOOOOVE_ CATS**
+  
+  <img src="/assets/images/Favicon 3.png" width="150px" height="150px"/>
 - I’m interested in coding/shell scripting _(Or really anything tech related)_
 - I'll probably just be posting random stuff that I coded, and whatever I code will probably be for either Linux or Windows
 - I'm working with these people:

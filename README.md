@@ -5,7 +5,7 @@
 - I’m interested in coding/shell scripting _(Or really anything tech related)_
 - I'll probably just be posting random stuff that I coded, and whatever I code will probably be for either *nix or Windows
 - I'm working with these people:
-[@AndromedaOfficial](https://github.com/AndromedaOfficial)
+[@Andromeda](https://github.com/AndromedaOfficial)
 [@gitventurer](https://github.com/gitventurer)
 <!---
 XRG2014/XRG2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,15 +1,13 @@
 # **Hello, I’m XRG2014 (aka. SnurfTech)**
-- **I _LOOOOOOOOOOVE_ CATS**<br>
-  - And apparently dogs too!
-<br>
-<img src="https://raw.githubusercontent.com/XRG2014/XRG2014/main/assets/images/Favicon%203.png" width="150px" height="150px"/>
-<br>
+**I _LOOOOOOOOOOVE_ CATS**<br>
+<i>And apparently dogs too!</i>
+<!-- <img src="https://raw.githubusercontent.com/XRG2014/XRG2014/main/assets/images/Favicon%203.png" width="150px" height="150px"/>-->
 
-- I’m interested in coding/shell scripting <i>(Or really anything tech related)</i>
+I’m interested in coding/shell scripting <i>(Or really anything tech related)</i>
 
-- I'll probably just be posting random stuff that I coded, and whatever I code will probably be for either Linux or Windows
+I'll probably just be posting random stuff that I coded, and whatever I code will probably be for either Linux or Windows
 
-- I'm working with these people:
+I'm working with these people:
 
   - [@AndromedaOfficial](https://github.com/AndromedaOfficial)
   - [@gitventurer](https://github.com/gitventurer)

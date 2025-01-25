@@ -1,5 +1,5 @@
 # **Hello, I’m XRG2014 (aka. SnurfTech)**
-- **I _LOOOOOOOOOOVE_ CATS**
+<span style="font-size: 5em;">&bull;</span> **I _LOOOOOOOOOOVE_ CATS**
   - And apparently dogs too!
 <br>
 <img src="https://raw.githubusercontent.com/XRG2014/XRG2014/main/assets/images/Favicon%203.png" width="150px" height="150px"/>

@@ -1,4 +1,4 @@
-# **Hello, I’m XRG2014**
+# **Hello, I’m XRG2014 (aka. SnurfTech)**
 - **I _LOOOOOOOOOOVE_ CATS**
   - And apparently dogs too!
 <br>

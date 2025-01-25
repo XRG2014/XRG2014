@@ -2,7 +2,8 @@
 - **I _LOOOOOOOOOOVE_ CATS**<br>
   - And apparently dogs too!
 <br>
-<img src="https://raw.githubusercontent.com/XRG2014/XRG2014/main/assets/images/Favicon%203.png" width="150px" height="150px"/><br>
+<img src="https://raw.githubusercontent.com/XRG2014/XRG2014/main/assets/images/Favicon%203.png" width="150px" height="150px"/>
+<br>
 
 - I’m interested in coding/shell scripting <i>(Or really anything tech related)</i>
 

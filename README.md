@@ -1,4 +1,4 @@
-# **Hello, I’m XRG2014 (aka. SnurfTech)**
+# **Hello, I’m SnurfTech**
 **I _LOOOOOOOOOOVE_ CATS**<br>
 <i>And apparently dogs too!</i>
 <!-- <img src="https://raw.githubusercontent.com/XRG2014/XRG2014/main/assets/images/Favicon%203.png" width="150px" height="150px"/>-->

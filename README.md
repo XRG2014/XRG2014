@@ -9,8 +9,8 @@ I'll probably just be posting random stuff that I coded, and whatever I code wil
 
 I'm working with these people:
 
-  - [@AndromedaOfficial](https://github.com/AndromedaOfficial)
-  - [@gitventurer](https://github.com/gitventurer)
+  - [AndromedaOfficial](https://github.com/AndromedaOfficial) <i>**(Fun fact: Not actually a person!)**</i>
+  - [gitventurer](https://github.com/gitventurer)
 
 ### WWW Info
 
